@@ -33,6 +33,15 @@ Creating Management Groups and Resource Groups to easily manage Azure subscripti
 * Created a resource group as **RG_rishi_lab** after selecting my subscription (Azure for student) and Azure region.
 <img width="1107" height="100" alt="image" src="https://github.com/user-attachments/assets/b46e8fa0-381d-442c-8bb6-ef4f760c1758" />
 
+## Lab 1.3: Implement Azure Policy
+### Lab Objective
+Implementing a Azure policy as **allowed location** by restricting resources creation to specific Azure region using Azure Policy.
+
+### Tasks performed
+**Policy Assignment**
+* Assigned the allowed location policy to restrict resources deployments to desgnated regions.
+<img width="1346" height="501" alt="image" src="https://github.com/user-attachments/assets/abd36315-962a-4741-851e-6c09928c9d3b" />
+
 
 ### Key Takeaways & Learnings
 * Learned how to create and manage internal and external identities in Microsoft Entra ID.
@@ -40,6 +49,8 @@ Creating Management Groups and Resource Groups to easily manage Azure subscripti
 * Configured SSPR using a Security Group-based scope.
 * Understood how groups can be used to simplify identity and access management.
 * Configured management group and resource group to understood how we can manage our subscription and resources.
+* Learned how to assign and manage azure Policies to enforce compliance and governance.
+*  Implemented/Assigned the policy to restrict the users to deploy policy at designated location
 
   
 
